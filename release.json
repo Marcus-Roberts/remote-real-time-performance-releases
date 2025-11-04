@@ -1,5 +1,6 @@
 {
   "version": "0.2.0",
+  "notes": "Testing update infrastructure.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/mercury.app.tar.gz",
