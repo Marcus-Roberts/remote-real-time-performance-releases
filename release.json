@@ -1,7 +1,7 @@
 {
   "version": "0.2.0",
   "platforms": {
-    "darwn-aarch64": {
+    "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/mercury.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3FxcyttUHRzL1V5MWZTTG5obm5QVm5xR2lZVHZhdzdRcGhMOFJVaEhIUlhuaE54UTlDZ3hYSkdZMC9VWVFab3RlWE80VnV3TFo1TlZURHB3V0tDNmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjA3NjcwCWZpbGU6bWVyY3VyeS5hcHAudGFyLmd6Ck14UGFqeW9tS2lDL0xaVUJQN3F5dmwyeU15RXpPYnJKdDhmdzRiMk1QamFSUGtlOGJ2TUxrZ3lyMTJTSUhFenA1V3hwekJycVp2Y0cvZ2dpaGM0aURBPT0K"
     }
