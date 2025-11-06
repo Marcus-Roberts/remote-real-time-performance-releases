@@ -4,7 +4,7 @@
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/mercury.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3I1dHNVazIrSWI4ZjArdHV2dTNYRmowbnI4OHN4em45ZzY1TUpZaC80TUVOelpLZkNsSEFlUVdWcVVoZFQ2Nnl6L1NGTlQxNmJQVHNtMXJVdVpoSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNDQ3NTgzCWZpbGU6bWVyY3VyeS5hcHAudGFyLmd6CldYMDFoMXpNK1dURUlwSkZGa2E2dm9lR3FWV29lTGw5UU14V1psei9OZHpFUzBSdW9VYlhITUpsSzlweWRmQ3JsMTlkSUtLTlV3UThmZDdyN2ZyYUJRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN2tMQjVSQkFDQ0FwUHY3UXNHWWd3VHFxcFlGZjBJUTBqRUN3ZlNCcXkwQ082K0FRQWxUekVRVVR1dzdXZ1lIYS9peGpYVVpRam91TFVsN2NQdmtwOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNDYwMzEyCWZpbGU6bWVyY3VyeS5hcHAudGFyLmd6ClhTVDVYMnplMEdRTXo4a3ByZEkyMG5tRFdDZ0pqRERqUlQ1M2ZUWTZHbnZwNTJ2RUxGVjB2QVExMTdoMmE5bGJPME5mcVBid1hOblBLMXZlSHR4Z0FnPT0K"
     }
   }
 }
