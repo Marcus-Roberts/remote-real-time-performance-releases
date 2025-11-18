@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "Testing update infrastructure.",
   "platforms": {
     "darwin-aarch64": {
@@ -8,7 +8,7 @@
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link_0.1.0_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN20xV3ZHanhhZDV6WHNFZ3B4VVZtNzRFZHpKc1hGZFo1bTZKNFB1K0ZGVUFKak9iaVZUMTlidnNML2xDeU41TlRkWXllc2ljUkEwNGJZdkpmTzBrNXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDIxODA2CWZpbGU6Unl0aG0gTGlua18wLjEuMF94NjRfZW4tVVMubXNpCmxNWUNnckVFRDJWeXBQWlM2bU01ZDNiZUwzWk1pTnI1VEloUmRjMVdJRGwvQ3Z5Z2hLWGZKMzloQXNFeFA5SFFwcFRudHVwRU1wOVVBZ29TOHZkYUFRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN2dUVDN0RjJoL0RDL0N4MDlZdGNMbmQ0dFhheFhRYjk2aXVXQ2ZsRDAzNDI4TVJBcmx6VUNqcjBHdjBaVHQvREgxOEwvSmlUdzZSeldtUFJESVpxOWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDkyNTcwCWZpbGU6Unl0aG0gTGlua18wLjIuMF94NjRfZW4tVVMubXNpCk4xbkxyTEJNK1dRdUZaSXRlazVlYVJMTDFaTXpFWTFKNFFRWUFXWGlyRW5nMFQxdkdmRXN0Zlc3NHNIbXRxZ2sxWk02eWJsYjBDcTNpQldYVjJMYUNBPT0K"
     }
   }
 }
