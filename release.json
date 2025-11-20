@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
+  "version": "0.1.0",
   "notes": "Enables ASIO support on Windows, and fixes database connection error due to a misconfigured configuration on Windows.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN2tnckR6c2g0ME5rWTkrQm5aVWcrbzZ6aTJrWVErRnVzc2k0cnpqbDFhRDRFK2c2WUZaWTlpcWRQWmhERFlyclgrbzFqMHdDbEdyWTN1MjhRTzlISlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDEyNDQ1CWZpbGU6Unl0aG0gTGluay5hcHAudGFyLmd6Ck1QRmRKOFhyWFpuV2VWaG1jMUdER0NSd0NrTStDVERscjJvejZrWTZFVlRsbDlsak9DSnBld3lYZnc0TTZtSXVnQU4zMllUQ2JvWDF6NVNSY0QrckFnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3M2WHQzUFhBenV6a1JqcWhaVVZJWlA2aWRiN0ZrcjA2bFl4VEM4NEpvdDBCdXBEandmR1BIdk9GNExERmhxMVlPSGcwOGpKRUEwQlFFSndFVVVQU3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjUwNDAyCWZpbGU6Unl0aG0gTGluay5hcHAudGFyLmd6CnNaVXlUeWptOXB5SWJLZ3Y1cjNtb3lEdFZlVUFQelpjaWFrMWVzcTdZWWZyeHdBRFFOa2lVSlZXemRKNlJ6UEYvd1dEb1pCVE9NbWJxWm1zR243SUNBPT0K"
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link_0.2.0_x64_en-US.msi",
