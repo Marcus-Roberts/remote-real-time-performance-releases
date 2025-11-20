@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "notes": "Enables ASIO support on Windows, and fixes database connection error due to a misconfigured configuration on Windows.",
+  "version": "0.1.1",
+  "notes": "Testing release infrastructure.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link.app.tar.gz",
