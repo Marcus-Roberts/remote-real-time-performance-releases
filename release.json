@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "Fixed the spelling of the app name from \"Rythm Link\" to \"Rhythm Link\".",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3JFMXUvTUw5ZWx0bEQ3a3cveUlMRnV6U09TeUxjekorbXV5RkU4Z1EvTUVCdGFhYXd2Z0hxOFY0UWRnM0wzci9lZk81Q3BEWHNCMUZUWHdVUW5NcVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNzIxNjA1CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpNenFuY2Y3MTJRWGpUYmpCaGJkNUl4YllmOERKenV5MHlpVU1id2FhUDROQVBXUmtPME5WTUxoNGNrZWNzMUVjNG9XZHY5cVhyZGZMbVg0U2hZMkZDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3FOckp4UDgzTytraDRyVTdFOEp5UEt6V2VwWGNJb2R6UUNoZGVMbVcxZ3JUMTZwa3JvWFNCVmxXUWY5Ly9IMzJIbHRDSzNHV3pVTWk4dmVmTDlBeXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNzIyMDkzCWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpJM0pKeDVTOFJEUlowQXZSaHVRcURpeC9BZzdCa0hTUnNFVFphdnI1QURCRzMzdHkwSTBvQU84UjhyZ0hXQ3BqZFhZS2p1aWZBWU9mTDJnQ01YNDhEdz09Cg=="
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link_0.1.0_x64_en-US.msi",
