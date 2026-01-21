@@ -4,7 +4,7 @@
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN2xCK1Z2ZTJGem94YzloMnFjMUtDbk9KVzVpU3h1MGRiNGZXVC9BdGo5d3BETXB5S2RXWUNkcEc0bjVGYzNyMWpEdk5rbHZmNUJ0cFZScjNsSTBGcFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDA5NjM2CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5nego0QW01bXp3LzVZVFhPT3NNajBlakE0MU5pUG9CRkVEOWw3ZmNxL0VMYTBSVjErK3ZGTkxJRXozcWdLamE0Y2EwbHFWTlVRRjdORmhxcFZJMzQ4bUNCQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3RvZ3BuVE1hUVdhalZzN0gwSnJUUU96M2dHRTB6N2plSnRuVjdHeTdVc2ZjU1FPamFVRWFDUTR1NExzTVBZdUhZb3hVTndmblRzTkdrWFY1bkZnNlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDEwNzkxCWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpTOXNUUHpwdVpqKy9EaHpDWlhGM3Z3WEtCcXVhVlRjbVdHR0pBZEpIbTZhbEliZXY4Y0dxVFUvVFBRV3Y5and0bU5nSVo5WFhDbklSTE9jZU5BZ3FCZz09Cg=="
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.2.0_x64_en-US.msi",
