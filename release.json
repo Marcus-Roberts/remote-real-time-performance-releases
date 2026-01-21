@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
-  "notes": "Fixed the spelling of the app name from \"Rythm Link\" to \"Rhythm Link\"",
+  "version": "0.3.0",
+  "notes": "Initial networking P2P connectivity testing phase.",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN285TkJxTndzd0g1emtGZXBscTYxeUxDUGJWcWxjQmpESTF2aUhKYzVFNnFEeWtoN3ozTm9pS3FScDNBMHlYZURKamJKcUJMWW55cFh6bDljNWVjR3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNzI4MzIzCWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpvbGtCYkk5MGtkeGJHdVRYMXo4OHdaRm93RXpwMnJ5Vkwza0Z4VHlkZU5uOUUybS9RTVhWa0paR21VbG9tRU1taXBHN3c3cVZod1ZuWTBrQ0JydEFCdz09Cg=="
+      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3RkdVpmYWZlMnBqd0srOWg4ZWpZV0hUQlFoTXlEVTZMYVNCQW9oU2VxVWFPdi9ySkM1eVYzYStCQkI2VjQrdE1zS0I1dnJ4NDFQOFFOYmxZL2lia1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTk0NDY0CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negp2ekJMR1ZOaWY5NFUxNCtJbmpjTWN3SHNDRkxCR0ZUR2tTSUJCSkw5enY1d3htZElZVUZxMlpBTGpHbDByWHpZbzdacHNMOUNtNktYZ0d1aHBxSHlDQT09Cg=="
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.2.0_x64_en-US.msi",
