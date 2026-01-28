@@ -1,10 +1,10 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "notes": "Initial networking P2P connectivity testing phase.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3RpMmgxakwrT3dVT21oLzJ5OUk4V2VFUFAvSWNLQ1hzUWtGMk9vSzJVS0JsY3E2Y2gwWHQrY1B6Wm9zL0gvVlRrZ0JjanVMUzhxalJ1VkRpSWhZT2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTgyMDY1CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpNcmowM2QzcWJ3a3REb29RNFBBT0NNTHBMWXdxZldobzhrUHBZNnNNeXZCNjA0dTV0R1VLVzNoWWJnaFZ5SWtMQkkrbDRhYkUyR25DV2dXdXRXbk9BQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3AxekxLODdtWC9YVGswTnF6bmVWMFgyRDg0NU1seURDUHF0enh5dHJ4QWdzQ1lMS1BsbTN2NDA4d0xsS0NQVmEvbjd0S3FzUWZBejc3b2p6b2REZGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjI4NzU5CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpMRHlnUkM2bk56L1FSSnNNb1pyTnFpYkVYc2M5eHU3bEpjcVRZYW9RNzFpemFTS3htRm9lV1IwYWlwWWQ5MTZ0ei9EYmxMM2RoaWdib3pheS85SmFCdz09Cg=="
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.3.1_x64_en-US.msi",
