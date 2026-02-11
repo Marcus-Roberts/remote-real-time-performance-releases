@@ -1,5 +1,5 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "notes": "Added support for UPnP, PCP, and NAT_PNP when IPv6 is not available.",
   "platforms": {
     "darwin-aarch64": {
@@ -7,8 +7,8 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3BEeUt1ZXVSMGRJaG9WbXVIT2VBNWY3WmREZVcvZU1aWTcyUlhUNkNBVGRPY2d3aUVlaW1vaW85WFc1eWs2SzZQdnZ6bGNwUVA0REFweGFRN1QxL0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODQwNTk2CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negp6WFRVdUFxUmZlVGErTmxvZEhIdVBJK0RrdDhWTWJOS1NERTZBZFpHd1FFeU4rMzJ0SXVCT0F0RnY5eGlwNGt4MUxyeWdqRjhLanVVaWEwRGdKZ21CUT09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.3.8_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN29wbXVJT3FnQ0s3N3pzVEphQTdvTm9XTVFtL3V6eFZ1bmljdFd1ZFhGUURhUFJkU0x2ZXRqbU9DNmIzMUozdDNzemxkY2pOVVhUSjh6UmUzVTlTSXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODQxMzAzCWZpbGU6Umh5dGhtIExpbmtfMC4zLjhfeDY0X2VuLVVTLm1zaQo1ejJYOVNJR0EzdnpKWnJ6eGIrYTQyS3pFL0R2aFEybXFLdEsvQkxuLzRnYXUwZU5hVWpiTGJQZ1gvQmI0RUxENUFMYVRMUjh1cnd6WXhsbnRkUEZCQT09Cg=="
+      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.3.9_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN2dUejlPWDBVOHUzSVZVOFRCc0xmd0JZNlJvNzRaalJkWXR6czhMdlhIazFIbGZnaDhwdHBKcnR1SVZFdi9Rcm9wUitvelpmeTNsY0FWVG1RdXNML1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODQxNTI5CWZpbGU6Umh5dGhtIExpbmtfMC4zLjlfeDY0X2VuLVVTLm1zaQpHWERTdXNNVldTS0h2dzJvTFJRUU0rZjNTR0ZVUXFHUHoyNGpRbFlzcm1vVHBIRUpTbVlLL2oxYjZscjc3QmV5QjhHV0dkU0d6eTQxTDZlSkx2cUxDQT09Cg=="
     }
   }
 }
