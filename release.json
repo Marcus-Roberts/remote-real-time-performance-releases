@@ -1,10 +1,10 @@
 {
-  "version": "0.3.9",
-  "notes": "Added support for UPnP, PCP, and NAT_PNP when IPv6 is not available.",
+  "version": "0.4.0",
+  "notes": "Completely reworked networking stack to pick the lowest latency path available.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN3BEeUt1ZXVSMGRJaG9WbXVIT2VBNWY3WmREZVcvZU1aWTcyUlhUNkNBVGRPY2d3aUVlaW1vaW85WFc1eWs2SzZQdnZ6bGNwUVA0REFweGFRN1QxL0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODQwNTk2CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negp6WFRVdUFxUmZlVGErTmxvZEhIdVBJK0RrdDhWTWJOS1NERTZBZFpHd1FFeU4rMzJ0SXVCT0F0RnY5eGlwNGt4MUxyeWdqRjhLanVVaWEwRGdKZ21CUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaDZtQldyUzYyN2h4bElTdGU2Ym4yMlF4TDVkeGY2d3hJOHp4N2JFWWVMNldpckFDVXBGWWtkbEVRSU5jRlhWK1RDckU0RU1QTW9lZ29PY2xCNzhzNWM3QXJTSkdGamdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzQwOTM4CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negpUbExFQzdBSVBzaWpiQzMvOTVJT1FiTnVJd2o0WlYxWWxoMVh5WHFuWGdrZk1OMDhKOTBqRit5MWxzM1YrSXlPa210WlpDNXBRVWkwWDRuS1pXTHlEZz09Cg=="
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.3.9_x64_en-US.msi",
