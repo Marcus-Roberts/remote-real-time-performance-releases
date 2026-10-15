@@ -3,11 +3,11 @@
   "notes": "The GUI's first signed, auto-updating release. The app checks this feed at boot and applies updates before sign-in.",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm%20Link.app.tar.gz",
+      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdUMzdlRqTU9OcHFUazUzaUFCaHBlenAyQ05EcmtUUTZPUlZIeDcyU1hGTTFjS29KZ055RDRiQlFtcnVtcE1jNFF0SzZHTXNiczZlbTZBaGZKcVYxS2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDgwOTYyCWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negl2ZXJzaW9uOjAuOC4wCitXRXdyRmxWSG9tZmQ1ZURQODVXaVhBWG5IdHVTQ1hZR2pMOWRXSHlxblE4eEpDL1A5QzUwL09pNi9halQ3L2ljZ2tNQkx1bGp3MFpZTW5KYk1JN0N3PT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm%20Link_0.8.0_x64_en-US.msi",
+      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.8.0_x64_en-US.msi",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdU1QWFhvMlFubUdGODZ6b0d0cW1aRWFzL0kyZEwwVTlqSUJPeHB6Q1pKRVVEUmRMeHI2SWowVndsbFBTNVhNRzJhejBUbUlETmdJYytqaEJVZTRySUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDgxMzEwCWZpbGU6Umh5dGhtIExpbmtfMC44LjBfeDY0X2VuLVVTLm1zaQpwT3Rnem1Wc3FkWjZBcmZFZVl6a0V2blZaN1NIenVVS29GOHhJSVdPUmMzUkNWUzB0b2MyNUEvb1Z0UnNGa2xLYUdvNHljQTdtaFBFbmZPZzNmMDRBdz09Cg=="
     }
   }
