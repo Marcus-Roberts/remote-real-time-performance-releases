@@ -4,15 +4,15 @@
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
-      "signature": ""
+      "signature": "x"
     },
     "darwin-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.9.0_universal.app.tar.gz",
-      "signature": ""
+      "signature": "x"
     },
     "windows-x86_64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.9.0_x64_en-US.msi",
-      "signature": ""
+      "signature": "x"
     }
   }
 }
