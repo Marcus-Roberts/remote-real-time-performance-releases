@@ -1,7 +1,9 @@
 # Rhythm Link releases
 
-The release feed the app's updater reads (`release.json`) and the
-install artifacts humans download. The `latest` release carries:
+The install artifacts humans download, plus `release.json` — the
+app's LEGACY update feed, still served for pre-re-point builds
+(current builds read the update feed from Rhythm Link's own service).
+The `latest` release carries:
 
 - `Rhythm Link.dmg` — the macOS FRESH-INSTALL artifact: download, open,
   drag Rhythm Link to Applications, launch. After this first install,
