@@ -1,18 +1,18 @@
 {
-  "version": "0.11.19",
-  "notes": "Rhythm Link v0.11.19 — the signed, auto-updating release. The app checks this feed at boot and applies updates before sign-in.",
+  "version": "0.11.20",
+  "notes": "Rhythm Link v0.11.20 — the signed, auto-updating release. The app checks this feed at boot and applies updates before sign-in.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdUI1V2VDSXpzdHJVdEhrNTRCZm5Fa29KWHRHaU9CMjEzTmJ1RDRBTkEvY0N1VERuejZockxXUzZFeENwRXE1NlFDblVNbm1KdmJmNnV2U2dGMGEzYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk5MzUyCWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negl2ZXJzaW9uOjAuMTEuMTkKQVJ3cUMyZ1lPelhQdS9IRXNUTDBFbW8xNGZwMENteTl1Q0gvQmtxVkQ0bXRtUWt3YUlnZndJdXBKVFl5aDNlMTlmaU9BMzFLUjZvL1YwdGdNMFRZRFE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdVBRZ2hUWXQrUWtSR0RGZTk5Q1Q0YnJwNElISGNmc3pWYURzaUVFd0lwWitjV0JiU3hjUDAzK3RBMFVlc1c5RTByVnhCMU04TmtzNW5Md1pjTnpjeWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA5MzU2CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negl2ZXJzaW9uOjAuMTEuMjAKdEV6SERaMlgvTUVYZVAwSVJkWGR4Sjc0RXFyYTJaR0wzUmF4WXZkSVllVDM2aE9rcEhYZ3Y3MzlwTHNjK1RHT3RBa2xEQ01jaUV1VWFjbXg2cU9PQVE9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.11.19_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdUQ5OGNaeTdKeGFVSkg2RHZJZTRUMVR5WGNYT3ZBQURVcnk1VVA2MVhBUkc3QTBBSysxWW83TG94NUw2M3FlU1VJVWdrK0xET2kveGlOaVRBYjAvbmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk5MTQ4CWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negl2ZXJzaW9uOjAuMTEuMTkKcExKejZzcXpPZHB0SkNiTlVYd1VlbVJ3aC9mVGV0YmFRNFJGMVRkZFVzZ29oM0VPaWtqNVB2SFlxN21GVnU4SFplZGpGNEVNeUJkK2ROMjlseUkxQnc9PQo="
+      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.11.20_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdUlVRWNvR2F5VFVrL0xBQWFSc2JIaklQQ2gvaDJMdXZTWVFlMWhYanlQU014Nzh0bUFiSDNWVUJxOU9xbnhuTUZQbVJOOHpBeEx6YWQ5amhWNHc5bkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA5MTMyCWZpbGU6Umh5dGhtIExpbmsuYXBwLnRhci5negl2ZXJzaW9uOjAuMTEuMjAKZkllcVBrVDRLNmRDVHQybnA4azhGQktWZUx1Vk5rR29zRWdTdVVEWnZmOHdYSm9FRjZBSFU4Yk85aEF2MWczVWwzeURpOUViNTF5cEQ5Q2t5SlRqRHc9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.11.19_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdUFXZ01EL1FERkVEZUhnVUV5UWxnQklmMzBQM05kc1dKVFFCbU9rUG1CR1EvY2FFUiszdk95MmtlVlpqdFNWMWg1Q1pacW9EUmJCSG1xWVJsS3pHaVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk4MTI1CWZpbGU6Umh5dGhtIExpbmtfMC4xMS4xOV94NjRfZW4tVVMubXNpCnFUZGZ3cXNGTDdrRFJOK2ZrS01SdnNnby9SYkN5MWtRa2xZb1owbC83Smd4TzVoTDl1eGkwaGROcDBKOENGUTUrbEpmS1VWVncxd3IzRHA5dno1VURBPT0K"
+      "url": "https://github.com/Marcus-Roberts/remote-real-time-performance-releases/releases/download/latest/Rhythm.Link_0.11.20_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpZMlJXcTFWdUJ1SWRRVkFyNzNONzh4aXU1YWR4R2xkdHNEVisxK2pockJvR0cwVjVuR0RqTlROWDhQNXJ5Zm1Xd3NwWkNSdnUvaGxNenRabmtQUnB3bnA1Mjh3cWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA4MDkyCWZpbGU6Umh5dGhtIExpbmtfMC4xMS4yMF94NjRfZW4tVVMubXNpCXZlcnNpb246MC4xMS4yMAoycVRXWWlidjkvczVka0J4WEo1N3RrajgvMGZoNjlySnpvbEh0eHp3bWZzQk1hQTV1dFllbzFmcFhnQnZIVTlFS1dpQnRJYUhadlpETWtKQUM4OEFBUT09Cg=="
     }
   }
 }
